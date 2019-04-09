@@ -1,0 +1,12 @@
+{
+"companyName": "DefaultCompany",
+"productName": "GGJJP2018",
+"dataUrl": "WebGL_Test2.data.unityweb",
+"wasmCodeUrl": "WebGL_Test2.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebGL_Test2.wasm.framework.unityweb",
+"TOTAL_MEMORY": 1073741824,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
